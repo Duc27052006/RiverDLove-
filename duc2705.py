@@ -523,7 +523,7 @@ class sender(threading.Thread):
             try:
                 self.request()               
             except:
-                sys.stdout.write(Fore.RED+'[DagTriZaker] Connection Website : '+Fore.BLUE+'ĐỊT CỤ WEBSITE LỎ VÃI LỒN DOWN DOWN DOWN CHẾT MẸ ĐI !!\n') 
+                sys.stdout.write(Fore.RED+'[VietDuc] Connection Website : '+Fore.BLUE+'NGUYỄN VIỆT ĐỨC ĐANG ĐẤM WEB NÀY KKKK !!\n') 
                 sys.exit(0)
 
         sys.exit(0)
@@ -552,7 +552,7 @@ Nguyễn Việt Đức Dùng Tool Bá Vãi Cả Lồn
 			#url = sys.argv[1]
             os.system('cls' if os.name == 'nt' else 'clear')
             print(CRED2 + logo + CRED2)
-            url = str(input(f"{Fore.RED}[DagTriZaker]   Nhập Url/Target: {Fore.RESET}"))
+            url = str(input(f"{Fore.RED}[VietDuc]   Nhập Url/Target: {Fore.RESET}"))
         except:
             os.system('cls' if os.name == 'nt' else 'clear')
 			#url = sys.argv[1]
