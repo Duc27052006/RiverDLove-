@@ -533,7 +533,7 @@ class MainLoop:
 
     def home(self): 
         logo = """
-Nguyễn Việt Đức Dùng Tool Bá Vãi Cả Lồn
+                   Welcome to the Ddos tool of Nguyen Viet Duc
 ╚═════╝ ╚═╝  ╚═╝ ╚═════╝   ╚═╝   ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
                                                                                      DDoS v2
                                                            
