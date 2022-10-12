@@ -697,7 +697,7 @@ class MainLoop:
             else:
 				#num_threads = sys.argv[2]
                 #num_threads = int(input("threads: "))
-                num_threads = str(input(f"{Fore.RED}[DagTriZaker]   Threads (100000): {Fore.RESET}"))
+                num_threads = str(input(f"{Fore.RED}[VietDuc]   Threads (100000): {Fore.RESET}"))
                 if num_threads == '':
                     #num_threads = int(8000)
                      num_threads = int(random.randint(20000, 30000))
